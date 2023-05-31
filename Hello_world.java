@@ -2,12 +2,12 @@
 // Every instructions to run the code is done under class in Java.....
 // The below is the main class of our "Hello, World" program.....
 
-class hello_world{
+class Hello_world{
 
 // In the following statement the meaning of each is as the following.....
 
 public static void main(String[] args) {
- System.out.println("Hellow, World");   
+ System.out.println("Hello, World");   
 }
 }
 
